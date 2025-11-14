@@ -1,5 +1,8 @@
-# Fuente-Sim-trica
+# Fuente-Simétrica
 Fuente simétrica que proporciona dos tensiónes de salida de polaridad opuesta ( positiva y negativa) con respecto a una referencia estable frente a cargas. 
+
+
+
 <img width="621" height="516" alt="imagen" src="https://github.com/user-attachments/assets/56f272ff-7df0-4f2d-a9bf-005b95be707b" />
 
 
